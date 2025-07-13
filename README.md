@@ -63,6 +63,17 @@ This project explores and analyzes real estate data scraped from [Zameen.com]([h
 
 ---
 
+## 📈 KPIs Tracked
+
+- 🏡 Average property price per city
+- 📍 Price per unit area (Marla or sqft)
+- 🛏️ Average number of bedrooms and bathrooms per city
+- 🧮 Property count by city and property type
+- 📊 Median vs. Mean price comparisons
+- 📉 Missing value percentage per feature
+
+---
+
 ## 📊 Libraries Used
 
 - `pandas`
